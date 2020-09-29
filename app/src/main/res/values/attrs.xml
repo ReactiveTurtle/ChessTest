@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChessboardView">
+        <attr name="colorFirst" format="color" >#FFFFFF</attr>
+        <attr name="colorSecond" format="color" >#000000</attr>
+    </declare-styleable>
+</resources>
